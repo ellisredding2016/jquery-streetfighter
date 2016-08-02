@@ -69,3 +69,19 @@ body{
 	left:450px;
 	float:left;
 }
+
+.instructions{
+	color:white;
+	font-size: 2rem;
+	text-shadow: 3px 3px lightgray;
+	text-align: center;
+
+}
+
+.details{
+	list-style: none;
+}
+
+h3 {
+	font-size: 3rem;
+}
